@@ -1,0 +1,20 @@
+.sort-header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    .icon-sort {
+        margin: 1px;
+        cursor: pointer;
+    }
+}
+.table-user {
+    .group-button {
+        display: flex;
+        gap: 2px;
+    }
+}
+
+.custom-table {
+    overflow-x: auto;
+}
